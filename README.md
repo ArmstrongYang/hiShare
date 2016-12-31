@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
 
+Your site is ready to be published at https://armstrongyang.github.io/hiShare/.
 You can use the [editor on GitHub](https://github.com/ArmstrongYang/hiShare/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
