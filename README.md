@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/tflearn/tflearn.svg?branch=master)](https://travis-ci.org/tflearn/tflearn)
+[![PyPI version](https://badge.fury.io/py/tflearn.svg)](https://badge.fury.io/py/tflearn)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Join the chat at https://gitter.im/einsteinsci/betterbeginnings](https://badges.gitter.im/tflearn/tflearn.svg)](https://gitter.im/tflearn/tflearn?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ## Welcome to GitHub Pages
 
 Your site is ready to be published at https://armstrongyang.github.io/hiShare/.
